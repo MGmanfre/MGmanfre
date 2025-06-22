@@ -30,7 +30,7 @@ e outros jogos onde posso soltar a criatividade com automações.
 Se quiser bater um papo sobre ciência de dados, automação ou recomendar um jogo técnico, só chamar no LinkedIn ou no meu Email!
 
 ## 📫 Conecte-se comigo
-[![Email](miguelmanfre0603@gmail.com)
+[![Email](miguelmanfre0603@gmail.com)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Manfre-blue?logo=linkedin)](https://www.linkedin.com/in/miguel-manfre/)
 
 ---
