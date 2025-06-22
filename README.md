@@ -10,8 +10,10 @@ Sou um estudante de Engenharia de Software apaixonado por ciência de dados, tec
 
 ## 🛠️ Projetos favoritos
 
-- [Vinheria](https://github.com/GuilhermeSM-0808/Front_End-CP02): Projeto em colaboração, focado em desenvolvimento front-end.
+- [Vinheria](https://github.com/GuilhermeSM-0808/Front_End-CP02): Projeto em colaboração, focado em desenvolvimento front-end para uma Vinheria fictícia.
 - [Astronomia](https://github.com/MGmanfre/Astronomia): Meu espaço para explorar o universo com programação e dados astronômicos.
+- [AlertaVerde](https://github.com/MGmanfre/AlertaVerde): Site exclusivo para sustentabilidade e algumas informações extras.
+- [EcosDoAbismo](https://github.com/MGmanfre/RPG---EcosDoAbismo): Meu site que ainda está desenvolvimento para criação de ficha do meu RPG de mesa
 
 ## 🎮 Hobbies e interesses
 
@@ -20,7 +22,7 @@ Meus favoritos incluem:
 - **Valorant**
 - **Fragpunk**
 - **Satisfactory**
-- **Minecraft** (especialmente com mods técnicos pra automatizar tudo)
+- **Minecraft** (especialmente com mods técnicos para automatizar tudo)
 - **Factorio**
 - **Techtonica**
 e outros jogos onde posso soltar a criatividade com automações.
