@@ -10,7 +10,7 @@ Sou um estudante de Engenharia de Software apaixonado por ciência de dados, tec
 
 ## 🛠️ Projetos favoritos
 
-- [Front_End-CP02](https://github.com/GuilhermeSM-0808/Front_End-CP02): Projeto em colaboração, focado em desenvolvimento front-end.
+- [Vinheria](https://github.com/GuilhermeSM-0808/Front_End-CP02): Projeto em colaboração, focado em desenvolvimento front-end.
 - [Astronomia](https://github.com/MGmanfre/Astronomia): Meu espaço para explorar o universo com programação e dados astronômicos.
 
 ## 🎮 Hobbies e interesses
